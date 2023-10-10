@@ -6,6 +6,8 @@ public class datatype {
         int a = y + z;
         float b = 6.54f + 6;
         System.out.println(b);
+        System.out.println(a);
+        System.out.println(x);
 
         //Increment and Decrement Operators
         int i = 50;
