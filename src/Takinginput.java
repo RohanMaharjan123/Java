@@ -14,5 +14,7 @@ public class Takinginput {
 
         System.out.println("The sum of these numbers is:");
         System.out.println(sum);
+        sc.close();
+
     }
 }
