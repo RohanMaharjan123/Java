@@ -11,5 +11,6 @@ public class Strings{
         Scanner sc = new Scanner(System.in);
         String st = sc.next();
         System.out.println(st);
+        sc.close();
     }
 }

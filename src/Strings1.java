@@ -5,5 +5,6 @@ public class Strings1 {
         // String st = sc.next();
         String st = sc.nextLine();
         System.out.println(st);
+        sc.close();
     }
 }
