@@ -8,4 +8,9 @@ Author - Rohan Maharjan
 Oracle Documentation :https://docs.oracle.com/en/java/
 
 <br>
-Chapter  1: Basics of Java: Variables and Datatypes -> src/Ch1
+Chapter  1: Basics of Java: Variables and Literals
+<br>
+Chapter 2: Operators and Associativity in Java 
+<br>
+Chapter 3: Strings and Methods in String
+<br>
