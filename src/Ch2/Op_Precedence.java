@@ -1,6 +1,8 @@
 package Ch2;
 public class Op_Precedence {
     public static void main(String[] args){
+        //  JAVA doesnt use BODMAS use but it used precedence for calculation
+
         // Precedence & Associativity
         int a = 6*5-34/2;
         /*
