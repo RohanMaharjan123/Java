@@ -1,3 +1,4 @@
+package Ch1;
 import java.util.Scanner;
 public class Takinginput {
     public static void main(String[] args) {

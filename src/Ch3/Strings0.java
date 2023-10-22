@@ -1,3 +1,4 @@
+package Ch3;
 public class Strings0{
     public static void main(String[] args){
         String name = "ruchi";

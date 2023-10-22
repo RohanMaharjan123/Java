@@ -1,3 +1,4 @@
+package Ch3;
 public class Stringmethods {
     public static void main(String[] args){
         String a = "Ruchi";

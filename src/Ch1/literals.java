@@ -1,3 +1,4 @@
+package Ch1;
 public class literals {
     public static void main(String[] args){
         // Literals

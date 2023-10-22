@@ -1,3 +1,4 @@
+package Ch3;
 public class StringOperations {
     public static void main(String[] args) {
         // Declare and initialize strings
