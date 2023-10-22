@@ -2,6 +2,13 @@ package Ch1;
 public class literals {
     public static void main(String[] args){
         // Literals
+        // : Literals are the values stored in datatypes 
+        /* for example : 
+        int decimal = 100:
+        (decimal) = (100)
+        dataype = int decimal [declaring the datatypes]
+        literals =  100 [values stored in declared variables] 
+        */ 
         int decimal = 100; // Decimal literal
         int octal = 0144; // Octal literal
         int hex = 0x64; // Hexadecimal literal

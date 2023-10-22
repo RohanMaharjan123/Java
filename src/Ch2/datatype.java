@@ -1,6 +1,7 @@
 package Ch2;
 public class datatype {
     public static void main(String[] args){
+        // Primitive DataTypes
         byte x = 5;
         int y = 6;
         short z = 8;
