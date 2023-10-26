@@ -14,7 +14,7 @@ Chapter 2: Operators and Associativity in Java.
 <br>
 Chapter 3: Strings and Methods in String.
 <br>
-Chapter 4: If else condition and Switch Case. 
+Chapter 4: If else Condition and Switch Case. 
 <br>
-Chapter 5: Loops in Java and Break & continue Statement.
+Chapter 5: Loops in Java, Break & Continue Statement.
 <br>
