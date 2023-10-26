@@ -14,3 +14,5 @@ Chapter 2: Operators and Associativity in Java
 <br>
 Chapter 3: Strings and Methods in String
 <br>
+Chapter 4: If else condition and Switch Case 
+<br>
