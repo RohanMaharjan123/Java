@@ -18,3 +18,4 @@ Chapter 4: If else Condition and Switch Case.
 <br>
 Chapter 5: Loops in Java, Break & Continue Statement.
 <br>
+Chapter 6: Arrays in Java.
