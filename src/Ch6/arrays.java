@@ -22,5 +22,6 @@ public class arrays {
         // int [] marks = {65, 75, 88, 98, 99};
 
         System.out.println(marks[0]);
+        System.out.println(marks.length);
     }
 }
