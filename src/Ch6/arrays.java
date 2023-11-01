@@ -23,5 +23,15 @@ public class arrays {
 
         System.out.println(marks[0]);
         System.out.println(marks.length);
+
+        // Displaying the array  using (for loop)
+        System.out.println("Printing using for loop");
+        for(int i = 0; i < marks.length; i++){
+            System.out.println(marks[i]);
+        }
     }
+
+        // Displaying the Array in Reverse order using for loop
+    
+
 }
