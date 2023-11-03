@@ -1,7 +1,7 @@
 package Ch7;
 
-public class methods {
-    static int logic(int x, int y){
+public class methods0 {
+    int logic(int x, int y){
         int z;
         if(x>y){
             z = x+y;
@@ -14,7 +14,9 @@ public class methods {
         int a = 1;
         int b = 2;
         int c;
-        c = logic(a, b);
+        // Methods invocations using Object creation
+        methods0 obj = new methods0();
+        c = obj.logic(a, b);
         System.out.println(c);
     }
 }
