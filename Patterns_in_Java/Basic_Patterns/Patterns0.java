@@ -1,4 +1,4 @@
-package Java.Java.Patterns_in_Java.Basic_Patterns;
+package Java.Patterns_in_Java.Basic_Patterns;
 
 public class Patterns0 {
     public static void main(String[] args) {

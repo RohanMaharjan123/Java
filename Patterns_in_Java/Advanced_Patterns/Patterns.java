@@ -1,4 +1,4 @@
-package Java.Java.Patterns_in_Java.Advanced_Patterns;
+package Java.Patterns_in_Java.Advanced_Patterns;
 
 public class Patterns {
     public static void main(String[] args) {
