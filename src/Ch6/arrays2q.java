@@ -2,7 +2,7 @@ package Ch6;
 
 import java.util.Scanner;
 
-public class arrays2 {
+public class arrays2q {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
