@@ -7,6 +7,8 @@ public class Strings2 {
     String sentence = "Her name is Ruchi";
 
     System.out.println(name);
+    System.out.println(fullname);
+    System.out.println(sentence);
     }
 
 }
