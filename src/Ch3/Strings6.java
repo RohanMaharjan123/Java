@@ -1,6 +1,6 @@
 package Ch3;
 
-public class String6 {
+public class Strings6 {
     public static void main(String[] args) {
         // Compare
         String sentence = "Hi its me I'm the problem it's me.";
