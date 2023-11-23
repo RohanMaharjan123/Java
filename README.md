@@ -22,4 +22,4 @@ Chapter 6: Arrays in Java.
 <br>
 Chapter 7: Functions & Methods in Java.
 <br>
-Chapter 8: Object Oriennted Programming in Java.
+Chapter 8: Object Oriented Programming in Java.
