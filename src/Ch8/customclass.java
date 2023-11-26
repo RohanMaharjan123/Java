@@ -3,6 +3,9 @@ package Ch8;
 class Bird{
     int weight;
     String color;
+    public void  printDetails(){
+        System.out.println("Crow is"+ color + "in color");
+    }
 }
 public class customclass {
     public static void main(String[] args) {
