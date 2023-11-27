@@ -4,7 +4,7 @@ class Bird{
     int weight;
     String color;
     public void  printDetails(){
-        System.out.println("Bird is"+ color + "in color");
+        System.out.println("Bird is "+ color + "in color");
         System.out.println( "Bird " + weight + "kg in weight");
 
     }
@@ -17,7 +17,7 @@ public class customclass {
         Bird sparrow = new Bird();
         crow.weight = 15;
         crow.color = "black";
-        sparrow.weight = 0.25;
+        sparrow.weight = 1;
         sparrow.color = "brown";
 
         crow.printDetails();
