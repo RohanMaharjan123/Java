@@ -2,12 +2,14 @@ package Ch8;
 
 class Employee{
     int id;
-    int salary
+    int salary;
     String name;
     public void  printDetails(){
         System.out.println("My id "+ id);
         System.out.println( "and my name is " + name);
-
+    }
+    public int getSalary(){
+        return salary;
     }
 }
 public class customclass0 {
@@ -18,10 +20,14 @@ public class customclass0 {
         Employee lukas = new Employee();
         jonas.id = 1;
         jonas.name = "Mc";
+        jonas.salary = 35000;
         lukas.id = 2;
-        lukas.name = "sheer"
+        lukas.name = "sheer";
+        lukas.salary = 50000;
 
         jonas.printDetails();
+        int salary = jonas.getSalary();
+        System.out.println(salary);
         lukas.printDetails();
 
     }
