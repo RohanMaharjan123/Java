@@ -2,7 +2,7 @@ package Ch8;
 
 class Employee{
     int id;
-    int salary;
+    int salary
     String name;
     public void  printDetails(){
         System.out.println("My id "+ id);
@@ -22,8 +22,7 @@ public class customclass0 {
         jonas.name = "Mc";
         jonas.salary = 35000;
         lukas.id = 2;
-        lukas.name = "sheer";
-        lukas.salary = 50000;
+        lukas.name = "sheer"
 
         jonas.printDetails();
         int salary = jonas.getSalary();
