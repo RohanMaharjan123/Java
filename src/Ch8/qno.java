@@ -1,4 +1,5 @@
 package Ch8;
+
 class Employee {
     int salary;
     String name;
@@ -21,6 +22,8 @@ public class qno {
         Employee hari = new Employee();
 
         hari.setName("Maha");
-        hari.getName();
+        hari.salary = 200000;
+        System.out.println(hari.getSalary());
+        System.out.println(hari.getName());
     }
 }
