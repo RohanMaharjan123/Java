@@ -25,5 +25,7 @@ public class Access {
         // hari.name = "Hari bansha Acharaya"; --> provides error due to private access modifier
         hari.setName("Hari bansha Acharaya");
         System.out.println(hari.getName());
+        hari.setId(2);
+        System.out.println(hari.getId());
     }
 }
