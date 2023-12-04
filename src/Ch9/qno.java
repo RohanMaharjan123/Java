@@ -15,7 +15,15 @@ class Cylinder{
     public void setHeight(int height){
         this.height = height;
     }
-
+    public double volume(){
+        return  Math.PI * Math.pow(radius,2) * height;
+    }
+    public double perimeter(){
+        return 2 * Math.PI * radius + 2 * height;
+    }
+    public double totalSurfaceArea(){
+        return 2 * Math.PI * radius *(radius + height);
+    }
 }
 public class qno {
     public static void main(String[] args) {
@@ -26,10 +34,14 @@ public class qno {
         myCylinder.setRadius(7);
         System.out.println(myCylinder.getRadius());
 
-        double volume = Math.PI * Math.pow(myCylinder.getRadius(), 2) * myCylinder.getHeight();
-        double perimeter = 2 * Math.PI * myCylinder.getRadius() + 2 * myCylinder.getHeight();
+        // double volume = Math.PI * Math.pow(myCylinder.getRadius(), 2) * myCylinder.getHeight();
+        // double perimeter = 2 * Math.PI * myCylinder.getRadius() + 2 * myCylinder.getHeight();
+        // double totalSurfaceArea = 2 * Math.PI * myCylinder.getRadius() * (myCylinder.getRadius() + myCylinder.getHeight());
 
-        System.out.println("Volume of the cylinder is: " + volume);
-        System.out.println("Perimeter of the cylinder is: " + perimeter);
+        System.out.println("Volume of the cylinder is: " + myCylinder.volume());
+        System.out.println("Perimeter of the cylinder is: " + myCylinder.perimeter());
+        System.out.println("Total Surface Area of the cylinder is: " + myCylinder.totalSurfaceArea());
     }
+
+
 }
