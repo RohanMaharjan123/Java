@@ -25,8 +25,14 @@ class inherit extends Base{
 }
 public class inheritance {
     public static void main(String[] args) {
+        // Creating an Object of an Base Class
         Base b = new Base();
         b.setX(2);
         System.out.println(b.getX());
+
+        // Creating and Object of an Derived Class
+        inherit i = new inherit();
+        i.setY(24);
+        System.out.println(i.getY());
     }
 }
