@@ -1,4 +1,4 @@
-package Ch9;
+package Ch10;
 
 class Base{
     int x;
