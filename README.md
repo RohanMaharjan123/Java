@@ -25,3 +25,5 @@ Chapter 7: Functions & Methods in Java.
 Chapter 8: Object Oriented Programming in Java.
 <br>
 Chapter 9: Access Modifiers & Constructors in Java.
+<br>
+Chapter 10: Inheritance in Java
