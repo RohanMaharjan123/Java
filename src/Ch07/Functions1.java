@@ -1,4 +1,4 @@
-package Ch7;
+package Ch07;
     import java.util.Scanner;
 public class Functions1{
     public static int calculateProduct(int a, int b){

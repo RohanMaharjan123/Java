@@ -1,4 +1,4 @@
-package Ch4;
+package Ch04;
 
 public class Operators_in_ifelse {
     public static void main(String[] args){

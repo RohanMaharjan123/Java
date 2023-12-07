@@ -1,4 +1,4 @@
-package Ch1;
+package Ch01;
 public class Variables {
     public static void main(String[] args) {
         //Code to be commented

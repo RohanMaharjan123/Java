@@ -1,4 +1,4 @@
-package Ch4;
+package Ch04;
 
     public class IfElseExample {
         public static void main(String[] args) {

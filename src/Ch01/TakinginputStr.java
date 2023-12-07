@@ -1,4 +1,4 @@
-package Ch1;
+package Ch01;
 import java.util.Scanner;
 public class TakinginputStr {
     public static void main(String[] args) {

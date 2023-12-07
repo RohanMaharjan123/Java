@@ -1,4 +1,4 @@
-package Ch9;
+package Ch09;
 
 class MyBIEmployee {
     private int id;

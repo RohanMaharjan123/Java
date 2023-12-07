@@ -1,4 +1,4 @@
-package Ch3;
+package Ch03;
 public class Strings0{
     public static void main(String[] args){
         String name = "ruchi";

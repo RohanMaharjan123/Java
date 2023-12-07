@@ -1,4 +1,4 @@
-package Ch6;
+package Ch06;
 
 public class arrays0 {
     public static void main(String[] args) {

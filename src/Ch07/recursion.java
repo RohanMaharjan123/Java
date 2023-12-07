@@ -1,4 +1,4 @@
-package Ch7;
+package Ch07;
 
 public class recursion {
     static int factorial(int n){

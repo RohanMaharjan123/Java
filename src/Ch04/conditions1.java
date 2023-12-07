@@ -1,4 +1,4 @@
-package Ch4;
+package Ch04;
 import java.util.*;
 public class conditions1 {
     public static void main(String[] args){

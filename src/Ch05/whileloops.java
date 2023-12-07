@@ -1,4 +1,4 @@
-package Ch5;
+package Ch05;
 
 public class whileloops {
     public static void main(String[] args){

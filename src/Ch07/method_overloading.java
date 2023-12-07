@@ -1,4 +1,4 @@
-package Ch7;
+package Ch07;
 
 public class method_overloading {
     static void Joke(){

@@ -1,4 +1,4 @@
-package Ch5;
+package Ch05;
 
 public class breakExample {
     public static void main(String[] args) {

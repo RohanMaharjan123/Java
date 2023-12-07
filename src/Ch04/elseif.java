@@ -1,4 +1,4 @@
-package Ch4;
+package Ch04;
 import java.util.Scanner;
 public class elseif {
     public static void main(String[] args){

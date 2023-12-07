@@ -1,4 +1,4 @@
-package Ch7;
+package Ch07;
 import java.util.*;
 public class Funcions {
     public static void printMyName(String name){

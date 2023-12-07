@@ -1,4 +1,4 @@
-package Ch5;
+package Ch05;
 
 public class for_loop_oddno {
     public static void main(String[] args) {

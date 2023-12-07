@@ -1,4 +1,4 @@
-package Ch7;
+package Ch07;
 
 public class method_overloading_0 {
     static void foo(){

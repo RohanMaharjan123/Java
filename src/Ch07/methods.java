@@ -1,4 +1,4 @@
-package Ch7;
+package Ch07;
 
 public class methods {
     static int logic(int x, int y){

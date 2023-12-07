@@ -1,4 +1,4 @@
-package Ch6;
+package Ch06;
 
 public class multi_dim_array {
     public static void main(String[] args) {

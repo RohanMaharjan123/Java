@@ -1,4 +1,4 @@
-package Ch5;
+package Ch05;
 
 public class continueExample {
     public static void main(String[] args) {

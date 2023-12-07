@@ -1,4 +1,4 @@
-package Ch8;
+package Ch08;
 class CellPhone{
     public void ring(){
         System.out.println("Ringing..........");

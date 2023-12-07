@@ -1,4 +1,4 @@
-package Ch2;
+package Ch02;
 public class Op_Precedence {
     public static void main(String[] args){
         //  JAVA doesnt use BODMAS use but it used precedence for calculation

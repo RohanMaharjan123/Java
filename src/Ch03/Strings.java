@@ -1,4 +1,4 @@
-package Ch3;
+package Ch03;
 import java.util.Scanner;
 public class Strings{
     public static void main(String[] args){

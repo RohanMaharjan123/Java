@@ -1,4 +1,4 @@
-package Ch2;
+package Ch02;
 public class datatype {
     public static void main(String[] args){
         // Primitive DataTypes

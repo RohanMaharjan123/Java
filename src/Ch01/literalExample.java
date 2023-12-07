@@ -1,4 +1,4 @@
-package Ch1;
+package Ch01;
 public class literalExample {
         public static void main(String[] args) {
             int decimalValue = 42;

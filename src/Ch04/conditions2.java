@@ -1,4 +1,4 @@
-package Ch4;
+package Ch04;
 
 public class conditions2 {
     public static void main(String[] args) {

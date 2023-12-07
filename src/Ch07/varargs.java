@@ -1,4 +1,4 @@
-package Ch7;
+package Ch07;
 
 public class varargs {
     static int sum(int ...arr){ //(int x, int ...arr)

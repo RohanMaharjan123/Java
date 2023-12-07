@@ -1,4 +1,4 @@
-package Ch8;
+package Ch08;
 
 class Employee{
     int id;
