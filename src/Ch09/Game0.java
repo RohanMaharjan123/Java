@@ -4,7 +4,7 @@ import java.util.Scanner;
 class Game{
     public int number;
     public int inputNumber;
-    public int noOfGuesses;
+    public int noOfGuesses = 0;
     public int getNoOfGuesses(){
         return noOfGuesses;
     }
@@ -20,10 +20,12 @@ class Game{
         System.out.println("Guess the number");
         Scanner sc = new Scanner(System.in);
         inputNumber = sc.nextInt();
-        sc.close();
+        // sc.close();
     }
     boolean isCorrectNumber(){
+        noOfGuesses++;
         if(inputNumber == number){
+            System.out.format("Yes you get it right, it was %d you guessed it in %d attempts", number, noOfGuesses);
             return true;
         }else if(inputNumber < number){
             System.out.println("Too Low.....");
@@ -36,8 +38,12 @@ class Game{
 public class Game0 {
     public static void main(String[] args) {
         Game g = new Game();
-        g.takeUserInput();
-        boolean b = g.isCorrectNumber();
-        System.out.println(b);
+        boolean b = false;
+        while(!b){
+            g.takeUserInput();
+            b = g.isCorrectNumber();
+            System.out.println(b);
+        }
+        
     }
 }
