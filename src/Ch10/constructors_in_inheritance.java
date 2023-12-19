@@ -22,5 +22,6 @@ public class constructors_in_inheritance {
         // Base0 b = new Base0();
         
         Derived0 d = new Derived0();
+        System.out.println(d);
     }
 }

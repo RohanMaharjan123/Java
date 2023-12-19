@@ -23,5 +23,6 @@ public class this_super {
         OneClass o = new OneClass(5);
         TwoClass t = new TwoClass(15);
         System.out.println(o.getA());
+        System.out.println(t);
     }
 }
