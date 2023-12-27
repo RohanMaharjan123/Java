@@ -1,7 +1,7 @@
 package Ch10;
 
 abstract class Parent{
-    public Parent0(){
+    public Parent(){
         System.out.println("constructor of Base0");
     }
     public void sayHello(){
